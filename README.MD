@@ -64,7 +64,7 @@
         <img align="center" alt="yarn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
     </a>
     <a href="https://www.mongodb.com/">
-        <img align="center" alt="MongoDB" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+        <img align="center" alt="MongoDB" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
     </a>
     <a href="https://www.python.org/" >
         <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -85,7 +85,7 @@
     <img  align="center" alt="Azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
   </a>
   <a href="https://azure.microsoft.com/pt-br/products/devops/?msockid=1ff8d3bccc9a616c2681c52dcde360c1" >
-    <img  align="center" alt="Azure DevOps" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+    <img  align="center" alt="Azure DevOps" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
   </a>
   <a href="https://www.php.net/" >
       <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">         
