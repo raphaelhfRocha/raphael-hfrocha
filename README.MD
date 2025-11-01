@@ -48,6 +48,9 @@
      <img  align="center" alt="Wordpress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
    </a>
      <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <a href="https://angular.dev/" >
+     <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+   </a>
    <a href="https://nodejs.org/en" >
        <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     </a>
@@ -59,6 +62,9 @@
     </a>
     <a href="https://yarnpkg.com/">
         <img align="center" alt="yarn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img align="center" alt="MongoDB" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
     </a>
     <a href="https://www.python.org/" >
         <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -77,6 +83,9 @@
     </a>
   <a href="https://azure.microsoft.com/pt-br/?msockid=257a5995188a63ae0c9d4ffc19676210" >
     <img  align="center" alt="Azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+  </a>
+  <a href="https://azure.microsoft.com/pt-br/products/devops/?msockid=1ff8d3bccc9a616c2681c52dcde360c1" >
+    <img  align="center" alt="Azure DevOps" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
   </a>
   <a href="https://www.php.net/" >
       <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">         
