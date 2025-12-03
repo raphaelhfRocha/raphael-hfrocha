@@ -2,13 +2,13 @@
 <h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">My name is Raphael and welcome to my github profile!</h3>
 <div align="center">
-    <img src="https://github.com/raphael-hfrocha/raphael-hfrocha/blob/main/Programmer.png" width="450px">
+    <img src="https://github.com/raphaelhfrocha/raphaelhfrocha/blob/main/Programmer.png" width="450px">
 </div>
 
 <div align="center">
-  <a href="https://github.com/raphael-hfrocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-hfRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-hfRocha&layout=compact&langs_count=7&theme=tokyonight">
+  <a href="https://github.com/raphaelhfrocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelhfRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelhfRocha&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 <h2>Skills/competencies:</h2>
